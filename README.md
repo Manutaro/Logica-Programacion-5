@@ -1,4 +1,4 @@
-# Mini Juego: Diccionario Espanol-Ingles
+# Mini Juego: Diccionario Español-Ingles
 
 Practica de logica de programacion desarrollada en Java, diseñada para evaluar conocimientos de vocabulario mediante un quiz interactivo en consola.
 
