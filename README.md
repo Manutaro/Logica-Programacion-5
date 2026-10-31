@@ -1,12 +1,14 @@
-# Mini Juego: Diccionario Español-Ingles
+# Mini juego: Diccionario español-inglés
 
-Practica de logica de programacion desarrollada en Java, diseñada para evaluar conocimientos de vocabulario mediante un quiz interactivo en consola.
+Práctica de lógica de programación desarrollada en Java, diseñada para evaluar conocimientos de vocabulario mediante un cuestionario interactivo en consola.
 
-## Caracteristicas principales
-* Estructura de Datos: Uso de HashMap para almacenar pares de palabras (Espanol-Ingles).
-* Aleatoriedad: Extraccion y barajado aleatorio de palabras utilizando ArrayList y Collections.shuffle().
-* Validacion de Entradas: Limpieza y normalizacion de las respuestas del usuario (trim() y toLowerCase()) para evitar errores por mayusculas o espacios.
-* Sistema de Puntuacion: Conteo dinámico de aciertos y errores con retroalimentacion personalizada al finalizar.
+## Características principales
 
-## Tecnologias utilizadas
-* Java 21 (JDK)
+- **Estructura de datos:** Uso de `HashMap` para almacenar pares de palabras (español-inglés).
+- **Aleatoriedad:** Selección y ordenamiento aleatorio de palabras mediante `ArrayList` y `Collections.shuffle()`.
+- **Validación de entradas:** Limpieza y normalización de las respuestas del usuario (`trim()` y `toLowerCase()`) para evitar errores ocasionados por mayúsculas o espacios innecesarios.
+- **Sistema de puntuación:** Conteo dinámico de aciertos y errores, con retroalimentación personalizada al finalizar el cuestionario.
+
+## Tecnologías utilizadas
+
+- Java 21 (JDK).
